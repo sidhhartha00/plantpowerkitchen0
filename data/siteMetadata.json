@@ -1,32 +1,26 @@
 {
-  "title": "Tambouille",
-  "author": "Kim Clarisse & Aloïs de Gouvello",
-  "headerTitle": "Tambouille",
-  "description": "Notre site de recettes diverses et variées partagées par Kim, Aloïs et leurs proches à l'attention de ces derniers.",
-  "language": "fr-FR",
-  "siteUrl": "https://tambouille.vercel.app",
-  "siteRepo": "https://github.com/aloisdg/tambouille",
+  "title": "Plantpowerkitchen",
+  "author": "siddhartha",
+  "headerTitle": "Plantpowerkitchen",
+  "description": "Welcome to Plant Power Kitchen, where we celebrate the delicious and nourishing power of plants! Our blog is filled with vegan recipes that are easy to make and packed with natural ingredients. From hearty breakfasts to indulgent desserts, you'll find a wide variety of plant-based meals to enjoy. Follow us for inspiration, recipes, and tips on living a healthy and sustainable vegan lifestyle.",
+  "language": "en-US"
+  "siteUrl": "",
+  "siteRepo": "",
   "image": "/static/images/alois.png",
   "socialBanner": "/static/images/twitter-card.png",
-  "email": "alois@outlook.fr",
-  "github": "https://github.com/aloisdg",
-  "twitter": "https://twitter.com/aloisdg",
+  "email": "siddhaarthaprajapati@gmail.com",
+  "github": "https://github.com/",
+  "twitter": "https://twitter.com/",
   "linkedin": "https://www.linkedin.com",
   "rss": "/index.xml",
-  "locale": "fr-FR",
+  "locale": "en-US",
 
   "authors": {
-    "kim": {
-      "slug": "kim",
-      "name": "Kim Clarisse",
-      "email": "kim.clarisse@protonmail.com",
+    "sid": {
+      "slug": "sid
+      "name": "siddartha"
+      "email": "siddhaarthaprajapati@gmail.com",
       "image": "/static/images/kim.png"
     },
-    "alois": {
-      "slug": "alois",
-      "name": "Aloïs de Gouvello",
-      "email": "alois@outlook.fr",
-      "image": "/static/images/alois.png"
-    }
   }
 }
