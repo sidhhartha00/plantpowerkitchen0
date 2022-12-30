@@ -1,33 +1,4 @@
-![tambouille-banner](/public/static/images/twitter-card.png)
 
-# Tambouile
-
-Tambouille is a personnal french recipes website aimed to my family and acquaintances. It was inspired by an exercise made with my former PO.
-
-## Stack
-
-Tambouille uses:
-
-- React
-- Next.js
-- Gatsby
-- Tailwindcss
-- MDX
-- Husky
-
-and is hosted on Vercel.
-
-Built with a [template](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog) made by @timlrx. He was inspired by [Lee Robinson's blog](https://github.com/leerob/leerob.io), but focuses only on static site generation. Design is adapted from [Tailwindlabs blog](https://github.com/tailwindlabs/blog.tailwindcss.com).
-
-## Features
-
-- Perfect lighthouse accessibility score
-- Mobile-friendly view
-- Light and dark theme
-- Support for tags - each unique tag will be its own page
-- Support for nested routing of blog posts
-- Projects page
-- SEO friendly with RSS feed, sitemaps and more!
 
 ## Development
 
@@ -97,16 +68,4 @@ author: alois
 ---
 ```
 
-### Compose
 
-`scripts/compose.js` can be used to easily generate a post with pre-filled front matter.
-
-The first argument is the name of the post and the second optional argument is the extension (default to .mdx)
-
-Example code to generate the post called "My First Post" in markdown format
-
-```
-node ./scripts/compose.js "My First Post" .md
-```
-
-This will generate `./data/recettes/my-first-recipe.md` with pre-filled front matter.
